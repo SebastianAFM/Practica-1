@@ -1,0 +1,2 @@
+Estudiante {idEstudiante = "11111", ingreso = 2025-03-04 18:16:34.4721936 UTC, salida = Nothing}
+Estudiante {idEstudiante = "12345", ingreso = 2025-03-04 18:16:13.948775 UTC, salida = Nothing}
